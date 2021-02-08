@@ -21,6 +21,8 @@ import java.util.List;
 
 import okhttp3.Headers;
 
+import static com.example.flixter.DetailActivity.VIDEOS_URL;
+
 
 public class MainActivity extends AppCompatActivity {
 
